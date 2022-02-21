@@ -138,5 +138,3 @@ class Menu {
     private class MenuOption(val index: Int, val command: Action, val description: String)
 
 }
-
-s
